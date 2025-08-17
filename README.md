@@ -28,5 +28,5 @@
 
 ---
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Link]  
+- LinkedIn:   
 - GitHub: [DarshanC27](https://github.com/DarshanC27)  
