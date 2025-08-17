@@ -22,6 +22,11 @@
 
 ---
 
+## 🏆 Achievements
+- 🥈 2nd Place — 24-hour National Hackathon by Nexenstial LLP (July 2021)  
+- 📖 Research Publication — *Electric Vehicle Battery Condition Monitoring System*, IJEMR (June 2024)
+
+---
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Link]  
 - GitHub: [DarshanC27](https://github.com/DarshanC27)  
