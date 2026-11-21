@@ -217,15 +217,46 @@ class DarshanChabbi:
 
 ## 🚀 &nbsp; Featured Projects
 
+### ⚛️ &nbsp; Quantum Ready — founder
+
+> Post-quantum readiness for firms that keep secrets for decades. An outside-in scanner that issues **Ed25519-signed Snapshots**, an inside-out **Autopilot** that finds quantum-vulnerable crypto and gates CI on new findings, and a Rust **gateway** with hybrid **X25519MLKEM768** TLS, ML-KEM envelope encryption and an ML-DSA-signed Merkle ledger. Backed by the SVS accelerator. *(Core platform is private.)*
+
 <div align="center">
 
-<a href="https://github.com/DarshanC27/Information-Security-Threats-and-Vulnerabilities-Lab">
-  <img width="80%" src="https://socialify.git.ci/DarshanC27/Information-Security-Threats-and-Vulnerabilities-Lab/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Information Security Threats and Vulnerabilities Lab"/>
-</a>
+<a href="https://github.com/DarshanC27/Quantum-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=Quantum-Website&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00ff9f&icon_color=00ff9f" alt="Quantum Website"/></a>
+<a href="https://github.com/DarshanC27/pq-agile-wrapper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=pq-agile-wrapper&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00ff9f&icon_color=00ff9f" alt="pq-agile-wrapper"/></a>
 
 </div>
 
-> **🔬 Information Security Threats & Vulnerabilities Lab** — hands-on documentation of malware behavior, exploit research, and defensive measures. Built around the EC-Council C\|CT curriculum, adapted into a defensive and educational lens. Covers Trojan analysis, virus persistence, worms, spyware, and Exploit-DB / CVE research.
+### 🛡️ &nbsp; AI & LLM security
+
+<div align="center">
+
+<a href="https://github.com/DarshanC27/poisonrag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=poisonrag&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=ff006e&icon_color=ff006e" alt="PoisonRAG"/></a>
+<a href="https://github.com/DarshanC27/Dissertation-Rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=Dissertation-Rag&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=ff006e&icon_color=ff006e" alt="Dissertation-Rag"/></a>
+
+</div>
+
+| Project | What it is |
+|---|---|
+| **[PoisonRAG](https://github.com/DarshanC27/poisonrag)** | Live RAG-poisoning attack and autonomous defence simulator: one injected document hijacks a security assistant, then gets detected and quarantined (OWASP LLM Top 10). Built in a day at a London cybersecurity hackathon. |
+| **[Dissertation-Rag](https://github.com/DarshanC27/Dissertation-Rag)** | Document-scanning RAG engine: TF-IDF retrieval and grounded extractive answers, fully offline by default, with a FastAPI web UI, JSON API and CLI. |
+| **rag-poisoning-eval** *(private)* | Reproducible evaluation of corpus-poisoning attacks and defences in RAG: PoisonedRAG reproduction, five adaptive evasion operators, perplexity and certified defences, reported with Wilson intervals and McNemar tests. |
+
+### 🎮 &nbsp; Systems & interactive builds
+
+<div align="center">
+
+<a href="https://github.com/DarshanC27/neon-bay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=neon-bay&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00b4d8&icon_color=00b4d8" alt="NEON BAY"/></a>
+<a href="https://github.com/DarshanC27/pixel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarshanC27&repo=pixel&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00b4d8&icon_color=00b4d8" alt="Pixel"/></a>
+
+</div>
+
+| Project | What it is |
+|---|---|
+| **[NEON BAY](https://github.com/DarshanC27/neon-bay)** · [▶ play](https://darshanc27.github.io/neon-bay/) | An original open-city browser game in WebGL: realistic driving model, day/night and weather, online multiplayer with proximity voice chat. |
+| **[Pixel](https://github.com/DarshanC27/pixel)** | Your software system as a living creature: it gets sick when services break, says where it hurts, and writes the postmortem. Real Prometheus, Alertmanager, Sentry and Slack adapters. |
+| **[InfoSec Threats & Vulnerabilities Lab](https://github.com/DarshanC27/Information-Security-Threats-and-Vulnerabilities-Lab)** | Hands-on labs on malware behaviour, exploit research and defensive measures, built around the EC-Council C\|CT curriculum. |
 
 <br />
 
